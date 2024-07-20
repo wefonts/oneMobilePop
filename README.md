@@ -1,5 +1,5 @@
 # oneMobilePop
-원스토어모바일POP체
+원스토어 모바일POP체
 
 <pre>
 @font-face {
